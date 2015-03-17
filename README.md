@@ -1,2 +1,2 @@
-# F.L.A.I.R.
-Mobile web developement project for Asheville Independent Restaurants.
+# FLAIR
+This mobile web development project for Asheville Independent Restaurants is built upon jQuery Mobile and uses Google maps to help diners find their favorite foods. 
